@@ -519,7 +519,7 @@ body,*,input,textarea
 	.flexnav li ul li a,
 	.flexnav .touch-button
 	{
-		background-color:#FFFFFF;
+		background-color:#222;
 	}
 	
 	.template-component-google-map .template-component-google-map-button,
