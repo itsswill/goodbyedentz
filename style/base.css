@@ -568,7 +568,7 @@ body,*,input,textarea
 	.template-background-color-1,
 	.template-component-blockquote
 	{
-		background-color:#F5F5F5;
+		background-color:#eee;
 	}
 	
 	.template-background-color-2,
@@ -1421,6 +1421,12 @@ form
 	.template-icon-social-houzz:before				{	content:"\41";	}
 	.template-icon-social-vimeo:before				{	content:"\42";	}
 
+
+	a.template-icon-social-facebook{
+		background: #3b5998;
+	    border-radius: 8px;
+	}
+
 	/**************************************************************************/
 	/* Icon / Meta															  */
 	/**************************************************************************/
@@ -1779,7 +1785,11 @@ form
 				z-index:1;
 				position:absolute;
 			}
-			
+				
+			.template-header-top{
+				background: rgba(0,0,0,0.5) !important;
+			}
+
 			/******************************************************************/
 			/* Template	/ Header / Top / Icon list							  */
 			/******************************************************************/
@@ -1871,7 +1881,7 @@ form
 
 	.template-content
 	{
-		
+		background: #f8f8f8;
 	}
 
 		.template-content .template-section
