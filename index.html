@@ -39,6 +39,31 @@
 
 	<body class="template-page-home">
 
+	<!--Begin Slogan Screen-->
+	<div id="slogan" style="width:100%; height:600px; background:#222; position:absolute; z-index:9999999;">
+		<div style="position:relative; top:35%; font-size:28px; color:#FFF;">
+			<div style="display:block; width:100%; text-align:center;">
+				Got dents? Say goodbye dents!
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			var h = $(window).height();
+			var w = $(window).width();
+
+			$("#slogan").css('height', h);
+			$("#slogan").css('width', w);
+
+			function fadeAway(){
+				$("#slogan").fadeOut("slow");
+			}
+			setTimeout(fadeAway, 2000);
+		});
+	</script>
+	<!--End Slogan Screen -->
+
+
 		<!-- Header -->
 		<div class="template-header">
 
