@@ -1009,7 +1009,7 @@ $phone = "(929) 421 2407";
 					<!-- Social icon list -->
 					<ul class="template-component-social-icon-list template-component-social-icon-list-2">
 						<li><a href="#" class="template-icon-social-twitter" target="_blank"></a></li>
-						<li><a href="#" class="template-icon-social-facebook" target="_blank"></a></li>
+						<li><a href="https://www.facebook.com/goodbyedentsnyc/" class="template-icon-social-facebook" target="_blank"></a></li>
 						<li><a href="#" class="template-icon-social-youtube" target="_blank"></a></li>
 					</ul>
 					
