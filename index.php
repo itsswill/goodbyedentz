@@ -1,3 +1,8 @@
+<?php 
+
+$phone = "(929) 421 2407";
+
+?>
 <!DOCTYPE html>
 <html>
 
@@ -671,7 +676,7 @@
 				<div class="template-component-call-to-action">
 					<div class="template-main">
 						<h3>Need Dent Removal?</h3>
-						<a href="#" class="template-component-button">Book Appointment</a>
+						<a href="tel:<?php echo $phone; ?>" class="template-component-button">Book Appointment</a>
 					</div>
 				</div>
 				
@@ -909,7 +914,7 @@
 							<span class="template-icon-feature-phone-circle"></span>
 							<h5>Contact Us</h5>
 							<p>
-								phone: (929) 421 2407<br/>
+								phone: <?php echo $phone; ?><br/>
 								email: goodbyedentsnyc@gmail.com
 							</p>
 						</li>
@@ -974,7 +979,7 @@
 								<li><a href="#">About Us</a></li>
 								<li><a href="#">Gallery</a></li>
 								<li><a href="#">Our Services</a></li>
-								<li><a href="#">Book Your Appointment</a></li>
+								<li><a href="tel:<?php echo $phone; ?>">Book Your Appointment</a></li>
 								<li><a href="#">Portfolio</a></li>
 								<li><a href="#">Contact</a></li>
 							</ul>
