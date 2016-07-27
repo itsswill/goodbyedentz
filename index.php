@@ -142,7 +142,6 @@ $phone = "(929) 421 2407";
 									style="letter-spacing: 2px;"
 									>
 
-									GOODBYE DENTZ!
 								</div>
 
 								<!-- Layer 02 -->
