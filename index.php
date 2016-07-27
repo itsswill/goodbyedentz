@@ -976,11 +976,11 @@ $phone = "(929) 421 2407";
 							<h6>Company</h6>
 							<ul class="template-list-reset">
 								<li><a href="#">About Us</a></li>
-								<li><a href="#">Gallery</a></li>
-								<li><a href="#">Our Services</a></li>
+								<!--<li><a href="#">Gallery</a></li>
+								<li><a href="#">Our Services</a></li>-->
 								<li><a href="tel:<?php echo $phone; ?>">Book Your Appointment</a></li>
-								<li><a href="#">Portfolio</a></li>
-								<li><a href="#">Contact</a></li>
+								<!--<li><a href="#">Portfolio</a></li>
+								<li><a href="#">Contact</a></li>-->
 							</ul>
 						</div>
 						
