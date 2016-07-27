@@ -48,7 +48,7 @@ $phone = "(929) 421 2407";
 	<div id="slogan" style="width:100%; height:600px; background:#222; position:absolute; z-index:9999999;">
 		<div style="position:relative; top:35%; font-size:28px; color:#FFF;">
 			<div style="display:block; width:100%; text-align:center;">
-				Got Dents? Wave goodbye To Dents!
+				Got Dents? Good Bye Dentz!
 			</div>
 		</div>
 	</div>
@@ -142,7 +142,7 @@ $phone = "(929) 421 2407";
 									style="letter-spacing: 2px;"
 									>
 
-									WAVE GOODBYE TO DENTS!
+									GOODBYE DENTZ!
 								</div>
 
 								<!-- Layer 02 -->
