@@ -1,6 +1,6 @@
 <?php 
 
-$phone = "(929) 421 2407";
+$phone = "(347) 419 6950";
 
 ?>
 <!DOCTYPE html>
@@ -620,8 +620,7 @@ $phone = "(929) 421 2407";
 						
 						<!-- Text -->
 						<p class="template-padding-reset">
-							Goodbye Dentz is an eco-friendly, low cost, dent removal company based out of New York. 
-							Our company was founded by very professional dent removal experts in 2015. 
+							Goodbye Dentz is an eco-friendly, low cost, dent removal company based out of New York, with 25 years of experience. 
 							We operate in NYC and it's surrounding states. As a mobile dent removal company, we make it as convenient as possible for all vehicle owners to have their cars repaired and looking brand new. 
 							We use the most modern and up-to-date dent removal tool kits and products.
 						</p>
@@ -914,7 +913,7 @@ $phone = "(929) 421 2407";
 							<h5>Contact Us</h5>
 							<p>
 								phone: <?php echo $phone; ?><br/>
-								email: goodbyedentsnyc@gmail.com
+								email: <a href="mailto:goodbyedentsnyc@gmail.com">goodbyedentsnyc@gmail.com</a>
 							</p>
 						</li>
 						
@@ -979,8 +978,8 @@ $phone = "(929) 421 2407";
 								<!--<li><a href="#">Gallery</a></li>
 								<li><a href="#">Our Services</a></li>-->
 								<li><a href="tel:<?php echo $phone; ?>">Book Your Appointment</a></li>
-								<!--<li><a href="#">Portfolio</a></li>
-								<li><a href="#">Contact</a></li>-->
+								<!--<li><a href="#">Portfolio</a></li>-->
+								<li><a href="mailto:goodbyedentsnyc@gmail.com">Contact</a></li>
 							</ul>
 						</div>
 						
