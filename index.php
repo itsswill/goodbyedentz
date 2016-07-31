@@ -922,7 +922,8 @@ $phone = "(347) 419 6950";
 							<span class="template-icon-feature-location-map"></span>
 							<h5>Our Address</h5>
 							<p>
-								New York City, NY 10001
+								143-40 Oak Ave.<br/>
+								Flushing, NY 11355
 							</p>
 						</li>
 						
