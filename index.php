@@ -1011,6 +1011,7 @@ $phone = "(347) 419 6950";
 						<li><a href="https://www.facebook.com/goodbyedentsnyc/" class="template-icon-social-facebook" target="_blank"></a></li>
 						<li><a href="#" class="template-icon-social-youtube" target="_blank"></a></li>
 						<li><a href="http://www.yelp.com/biz/goodbye-dents-nyc-flushing?" class="template-icon-social-yelp" target="_blank"></a></li>
+						<li><a href="http://www.instagram.com/goodbye_dents_nyc_" class="template-icon-social-instagram" target="_blank"></a></li>
 					</ul>
 					
 					<!-- Copyright -->
